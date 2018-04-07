@@ -74,7 +74,7 @@ img {
 
 
 @keyframes rainbow {
-	0% {background-color: #BDDA84;}
+	0% {background-color: white;}
 	14%{background-color: #91C090;}
 	28%{background-color: #5C95D7;}
 	42%{background-color: #8395F0;}
