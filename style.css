@@ -10,15 +10,15 @@ html, body {
 #page-wrapper p{
 	/*: Change the color of paragraph texts*/
 
-	color:#5C95D7;
+	color: #5C95D7;
 }
 
 #name p{
-	color:white;
+	color: white;
 }
 h1 {
 	/*: Change the color of h1 text*/
-	color:#5C95D7;
+	color: #5C95D7;
 }
 h3{
 	color: #5C95D7;
