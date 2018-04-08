@@ -6,61 +6,34 @@ html, body {
 
 }
 
-.dropbtn{
-	border: none
-	padding:16px;
-	font-size:16px;
-	background-color:#BDDA84;
-	color: white;
-}
-.dropdown-content{
-		display: none;
-		position: absolute;
-		background-color: #BDDA84;
-		min-width: 160px;
-	}
 
-.dropdown{
-	position: relative;
-	display: inline-block;
-}
-
-.dropdown:hover .dropdown-content{
-	display: block;
-}
-
-.dropdown-content a {
-	color: white;
-	padding: 12px 16px;
-	text-decoration: none;
-	display: block;
-}
-#page-wrapper #name #blue p{
+#page-wrapper p{
 	/*: Change the color of paragraph texts*/
-	/*color:#5C95D7;*/
+
+	color:#5C95D7;
+}
+
+#name p{
 	color:white;
 }
-
-
 h1 {
 	/*: Change the color of h1 text*/
 	color:#5C95D7;
+}
+h3{
+	color: #5C95D7;
 }
 
 img {
 	border-radius: 25px;
 	max-width: 70%;
 }
-.brown{
-	color:#5C95D7;
+
 }
 .halo{
 	line-height: 70px;
 }
 
-.halo p{
-
-		color:#5C95D7;
 }
 #page-wrapper {
 	padding: 0 10% 0 10%;
@@ -85,7 +58,6 @@ img {
 }
 
 #page-wrapper {
-	/*: Change the background color to blue*/
 
 	animation-name: rainbow;
 	animation-duration: 30s;
@@ -94,10 +66,6 @@ img {
 
 #doubleyellow {
 	display: inline-block;
-	/*: Change the background color to yellow*/
-	background-color: #BDDA84;
-}
-#blue{
 	background-color: #BDDA84;
 }
 
@@ -107,18 +75,13 @@ img {
 }
 
 #green {
-	/* Change the ba.triple{
-
-	padding-right:50%
-	padding-left:50%
-}ckgrond color to green*/
+	display: inline-block;
 	background-color: #BDDA84;
+	margin: auto;
+	width: 50%;
 }
 
-#yellow {
-	/*: Change the background color to yellow*/
-	background-color: #BDDA84;
-}
+
 
 #white {
 	display: inline-block;
@@ -132,18 +95,4 @@ img {
 #white > img {
 
 	width: 30.3%;
-}
-
-#content_holder {
-	display: inline-block;
-	/*:; change the background color to green*/
-	background-color: #BDDA84;
-}
-
-.double{
-	width: 44.5%;
-	float: left;
-	margin: 2%;
-	padding: 5px;
-	background-color: #BDDA84;
 }
