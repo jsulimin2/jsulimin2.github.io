@@ -8,16 +8,16 @@ html, body {
 
 
 #page-wrapper p{
-	/*: Change the color of paragraph texts*/
 
-	color: #5C95D7;
+
+	color:#5C95D7;
 }
 
 #name p{
 	color: white;
 }
 h1 {
-	/*: Change the color of h1 text*/
+
 	color: #5C95D7;
 }
 h3{
@@ -85,10 +85,9 @@ img {
 
 #white {
 	display: inline-block;
-	/*: Change the background color to white*/
+
 	background-color: #BDDA84;
-	/*margin-left: 150px;
-	margin-right: 150px;*/
+
 
 }
 
